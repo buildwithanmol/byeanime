@@ -6,7 +6,7 @@ import RecoilWrapper from '@/lib/recoil'
 
 export const metadata: Metadata = {
   title: 'ByeAnime',
-  description: 'ByeAnime is an open source alternative to HiAnime! '
+  description: 'ByeAnime is an open source alternative to HiAnime! This is changed by Aryan Vishwakarma.'
 }
 
 const mukta = Mukta({
